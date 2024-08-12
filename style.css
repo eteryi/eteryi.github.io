@@ -1,0 +1,52 @@
+@font-face {
+	font-family: F16;
+	src: url("./fonts/JetBrainsMono-Bold.ttf");
+	font-weight: bold;
+	font-style: normal;
+}
+
+body {
+	background-color: #3E3E3E;
+	font-size: 200%;
+	font-family: "JetBrains Mono", monospace;
+}
+p {
+	color: #23272A;
+	font-weight: 500;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p span {
+	background: #F5E5C1;
+	background-size: 200%;
+	padding-top: 1px;
+}
+
+a span {
+	background: #F5E5C1;
+	background-size: 200%;
+	padding-top: 1px;
+	padding-bottom: 2px;
+	display: inline-block;
+	padding-right: 50px;
+}
+
+a span:hover {
+	background: #F4722B;
+	color: #F5E5C1;
+}
+
+
+.discord {
+	background-color: #5865F2;
+}
+
+.white {
+	color: #F5E5C1;
+}
+
+a {
+	color: #F4722B;
+}
+
