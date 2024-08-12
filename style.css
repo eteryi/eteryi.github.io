@@ -6,25 +6,26 @@
 }
 
 body {
-	background-color: #3E3E3E;
+	background-color: #0a100d;
 	font-size: 200%;
 	font-family: "JetBrains Mono", monospace;
 }
+
 p {
-	color: #23272A;
+	color: #0a100d;
 	font-weight: 500;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
 
 p span {
-	background: #F5E5C1;
+	background: #d6d5c9;
 	background-size: 200%;
 	padding-top: 1px;
 }
 
 a span {
-	background: #F5E5C1;
+	background: #d6d5c9;
 	background-size: 200%;
 	padding-top: 1px;
 	padding-bottom: 2px;
@@ -33,8 +34,8 @@ a span {
 }
 
 a span:hover {
-	background: #F4722B;
-	color: #F5E5C1;
+	background: #a22c29;
+	color: #d6d5c9;
 }
 
 
@@ -43,10 +44,10 @@ a span:hover {
 }
 
 .white {
-	color: #F5E5C1;
+	color: #d6d5c9;
 }
 
 a {
-	color: #F4722B;
+	color: #a22c29;
 }
 
