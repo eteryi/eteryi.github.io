@@ -47,6 +47,11 @@ a span:hover {
 	color: #d6d5c9;
 }
 
+.red {
+	font-weight: 1000;
+	color: #a22c29;
+}
+
 a {
 	color: #a22c29;
 }
